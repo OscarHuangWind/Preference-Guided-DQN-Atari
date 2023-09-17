@@ -12,6 +12,13 @@ https://github.com/OscarHuangWind/Learning-from-Intervention/assets/41904672/c62
 # Video: Unprotected Left Turn
 https://github.com/OscarHuangWind/Learning-from-Intervention/assets/41904672/8227ce00-73e5-4037-9192-5a837e5c2500
 
+
+# Framework
+
+<p align="center">
+<img src="https://github.com/OscarHuangWind/Preference-Guided-DQN-Atari/blob/master/presentation/benchmark.png">
+</p>
+
 # User Guide
 
 ## Clone the repository.
