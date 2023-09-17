@@ -4,19 +4,22 @@
 
 :wrench: Realized in Ubuntu 20.04 and Pytorch over OpenAI Gym benchamark: Atari Game and Classic Control. 
 
-# Video: Multi-Human Demonstration
-Distinct genders, age groups, and driving proficiency.
+# Video: Pong (6 actions; Green is RL agent)
 
-https://github.com/OscarHuangWind/Learning-from-Intervention/assets/41904672/c6259c23-4a88-4283-9aa0-579e0b1ae2c9
+https://github.com/OscarHuangWind/Preference-Guided-DQN-Atari/assets/41904672/0f38b973-5e4d-42af-9c5f-1529e7ef7648
 
-# Video: Unprotected Left Turn
-https://github.com/OscarHuangWind/Learning-from-Intervention/assets/41904672/8227ce00-73e5-4037-9192-5a837e5c2500
+# Video: CrazyClimber (9 actions)
 
+https://github.com/OscarHuangWind/Preference-Guided-DQN-Atari/assets/41904672/81dbf4a9-027d-4eb3-ac79-d300af0831f5
 
-# Framework
+# Video: FishingDerby (18 actions; Left one is RL agent)
+
+https://github.com/OscarHuangWind/Preference-Guided-DQN-Atari/assets/41904672/b640fba3-54b9-4210-8bd6-473ef4af9d25
+
+# Benchmark Comparison (Atari & Classic Control)
 
 <p align="center">
-<img src="https://github.com/OscarHuangWind/Preference-Guided-DQN-Atari/blob/master/presentation/benchmark.png">
+<img src="https://github.com/OscarHuangWind/Preference-Guided-DQN-Atari/blob/main/presentation/benchmark.PNG">
 </p>
 
 # User Guide
