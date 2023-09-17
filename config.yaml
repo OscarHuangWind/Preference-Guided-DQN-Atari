@@ -1,0 +1,79 @@
+##### PGDQN Config #####
+---
+##### DQN #####
+THRESHOLD : 50000
+TARGET_UPDATE : 10000
+BATCH_SIZE : 32
+GAMMA : 0.99
+MEMORY_CAPACITY : 10000
+Q_FREQ : 4
+PREFERENCE_FREQ : 2
+EPS_START : 1.0
+EPS_END : 0.05
+EPS_DECAY : 1000000
+FRAME_HISTORY_LEN : 4
+MAX_NUM_STEPS : 30000000
+PRINT_INTERVAL : 1
+SAVE_INTERVAL : 100000
+VISUALIZATION: False
+
+##### Algo ######
+PGDQN:
+    DOUBLE : True
+    DUELING : False
+    UCB : False
+    PER : False
+    IMPORTANT_SAMPLING : False
+    PREFERENCE : True
+    ENTROPY : True
+    JOINT_OPT : False
+
+DQN:
+    DOUBLE : False
+    DUELING : False
+    UCB : False
+    PER : False
+    IMPORTANT_SAMPLING : False
+    PREFERENCE : False
+    ENTROPY : False
+    JOINT_OPT : False
+
+DOUBLE_DQN:
+    DOUBLE : True
+    DUELING : False
+    UCB : False
+    PER : False
+    IMPORTANT_SAMPLING : False
+    PREFERENCE : False
+    ENTROPY : False
+    JOINT_OPT : False
+
+DUELING_DQN:
+    DOUBLE : False
+    DUELING : True
+    UCB : False
+    PER : False
+    IMPORTANT_SAMPLING : False
+    PREFERENCE : False
+    ENTROPY : False
+    JOINT_OPT : False
+
+D3QN:
+    DOUBLE : True
+    DUELING : True
+    UCB : False
+    PER : False
+    IMPORTANT_SAMPLING : False
+    PREFERENCE : False
+    ENTROPY : False
+    JOINT_OPT : False
+    
+UCB_DQN:
+    DOUBLE : False
+    DUELING : False
+    UCB : True
+    PER : False
+    IMPORTANT_SAMPLING : False
+    PREFERENCE : False
+    ENTROPY : False
+    JOINT_OPT : False
