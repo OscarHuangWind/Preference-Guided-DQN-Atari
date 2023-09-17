@@ -4,17 +4,17 @@
 
 :wrench: Realized in Ubuntu 20.04 and Pytorch over OpenAI Gym benchamark: Atari Game and Classic Control. 
 
-# Video: Pong (6 actions; Green is RL agent)
+# Video: Pong (6 actions; Green one is RL agent)
 
 https://github.com/OscarHuangWind/Preference-Guided-DQN-Atari/assets/41904672/564acf38-668c-4a78-b2c3-b40dfb6303a5
 
 # Video: CrazyClimber (9 actions)
 
-
+https://github.com/OscarHuangWind/Preference-Guided-DQN-Atari/assets/41904672/d428af73-a074-4108-ac95-14ba3f4c8525
 
 # Video: FishingDerby (18 actions; Left one is RL agent)
 
-https://github.com/OscarHuangWind/Preference-Guided-DQN-Atari/assets/41904672/b640fba3-54b9-4210-8bd6-473ef4af9d25
+https://github.com/OscarHuangWind/Preference-Guided-DQN-Atari/assets/41904672/f64421f8-8b5c-448e-8f05-9fa12f1c3ccb
 
 # Benchmark Comparison (Atari & Classic Control)
 
