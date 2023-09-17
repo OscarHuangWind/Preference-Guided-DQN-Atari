@@ -6,11 +6,11 @@
 
 # Video: Pong (6 actions; Green is RL agent)
 
-https://github.com/OscarHuangWind/Preference-Guided-DQN-Atari/assets/41904672/0f38b973-5e4d-42af-9c5f-1529e7ef7648
+https://github.com/OscarHuangWind/Preference-Guided-DQN-Atari/assets/41904672/564acf38-668c-4a78-b2c3-b40dfb6303a5
 
 # Video: CrazyClimber (9 actions)
 
-https://github.com/OscarHuangWind/Preference-Guided-DQN-Atari/assets/41904672/81dbf4a9-027d-4eb3-ac79-d300af0831f5
+
 
 # Video: FishingDerby (18 actions; Left one is RL agent)
 
