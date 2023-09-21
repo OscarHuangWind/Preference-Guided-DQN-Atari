@@ -9,6 +9,7 @@
 
 # General Info
 ## :tada: _This work has been accepted by **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**, will be published soon._
+## :rocket: _An advanced version of this work for addressing autonomous driving problem can be found in [**UnaDQN**](https://oscarhuangwind.github.io/Learning-from-Intervention./)_
 
 # Video: Pong (6 actions; Green one is RL agent)
 
