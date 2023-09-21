@@ -8,7 +8,7 @@
 :wrench: Realized in Ubuntu 20.04 and Pytorch over OpenAI Gym benchamark: Atari Game and Classic Control. 
 
 # General Info
-:tada: This work has been accepted by **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**, will be published soon.
+## :tada: _This work has been accepted by **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**, will be published soon._
 
 # Video: Pong (6 actions; Green one is RL agent)
 
