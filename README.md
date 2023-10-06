@@ -1,14 +1,28 @@
 # Preference-Guided-DQN-Atari
 ## :family: A new member of DQN family.
 
-### :page_with_curl: Sampling Efficient Deep Reinforcement Learning through Preference-Guided Stochastic Exploration [[**arXiv**]](https://arxiv.org/abs/2206.09627)
+### :page_with_curl: Sampling Efficient Deep Reinforcement Learning through Preference-Guided Stochastic Exploration 
+### [[**TNNLS**]](https://ieeexplore.ieee.org/document/10269149) | [[**arXiv**]](https://arxiv.org/abs/2206.09627)
 
 :dizzy: This work proposes a **_generalized and efficient epsilon-greedy exploration policy_** to learn a **_multimodal distribution_** that aligns with landscape of the Q value.
 
 :wrench: Realized in Ubuntu 20.04 and Pytorch over OpenAI Gym benchamark: Atari Game and Classic Control. 
 
+# Citation
+If you find this repository useful for your research, please consider starring :star: our repo and citing our paper.
+```
+@ARTICLE{huang2023preference,
+  author={Huang, Wenhui and Zhang, Cong and Wu, Jingda and He, Xiangkun and Zhang, Jie and Lv, Chen},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={Sampling Efficient Deep Reinforcement Learning Through Preference-Guided Stochastic Exploration}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-12},
+  doi={10.1109/TNNLS.2023.3317628}}
+```
+
 # General Info
-## :tada: _This work has been accepted by **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**, will be published soon._
 ## :rocket: _An advanced version of this work for addressing autonomous driving problem can be found in [**UnaDQN**](https://oscarhuangwind.github.io/Learning-from-Intervention./)_
 
 # Video: Pong (6 actions; Green one is RL agent)
