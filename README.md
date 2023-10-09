@@ -23,7 +23,11 @@ If you find this repository useful for your research, please consider starring :
 ```
 
 # General Info
-## :rocket: _An advanced version of this work for addressing autonomous driving decision-making problem can be found in [**UnaDQN**](https://oscarhuangwind.github.io/Learning-from-Intervention./)_
+## :rocket: _An advanced version of this work for addressing autonomous driving decision-making problem can be found in [**UnaDQN**](https://oscarhuangwind.github.io/Learning-from-Intervention/)_
+
+# Autonomous Driving: The performance of PGDQN is also verified through various autonomous driving simulators.
+
+https://github.com/OscarHuangWind/Preference-Guided-DQN-Atari/assets/41904672/d513a39f-0899-4d36-975b-0963fe23993a
 
 # Atari: Pong (6 actions; Green one is RL agent)
 
@@ -36,10 +40,6 @@ https://github.com/OscarHuangWind/Preference-Guided-DQN-Atari/assets/41904672/d4
 # Atari: FishingDerby (18 actions; Left one is RL agent)
 
 https://github.com/OscarHuangWind/Preference-Guided-DQN-Atari/assets/41904672/f64421f8-8b5c-448e-8f05-9fa12f1c3ccb
-
-# Autonomous Driving: The performance of PGDQN is also verified through various autonomous driving simulators.
-
-https://github.com/OscarHuangWind/Preference-Guided-DQN-Atari/assets/41904672/d513a39f-0899-4d36-975b-0963fe23993a
 
 # Benchmark Comparison (Atari & Classic Control)
 
